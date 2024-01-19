@@ -8,9 +8,12 @@ Repository: https://github.com/YenLing-Allison/RFM_model_and_Airline_customer_se
 **Key Question**:  
 a) Paint a picture of different customer segmentations  
 b) Which ways offer the Airlines the most insights? And, how could the insights be used?  
+
 ![Key question](https://github.com/YenLing-Allison/RFM_model_and_Airline_customer_segmentation/assets/144725779/b637baa1-b3ca-46a3-aa44-c11d9f3cff16)
 
 # Solution Map
+The solution map is a path toward solving problem. First step is to identify and merge the dataset, data pre-processing, data modeling, and then find the key insights and give valueable marketing recommendations.  
+
 ![Solution Map](https://github.com/YenLing-Allison/RFM_model_and_Airline_customer_segmentation/assets/144725779/06257cb3-095e-4ea3-b51c-cb2f7f227626)
 
 # Exploratory Analysis
@@ -18,6 +21,7 @@ Firstly, I conduct the initial exploratory to see what's the overall data look l
 a) Popular flight routes  
 b) Customers characteristic  
 c) Ufly memberships and its changes  
+
 ![Popular flight routes](https://github.com/YenLing-Allison/RFM_model_and_Airline_customer_segmentation/assets/144725779/4fc5201e-92e4-4bc0-b597-e3b074261302)
 
 # RFM model and CLustering analysis
@@ -26,9 +30,12 @@ F: how frequently they’ve engaged with the Airline
 M: how much money they’ve spent on per trip of the Airline  
 
 RFM model is a comprehensive marketing analysis that segments a company’s consumer base by their purchasing patterns or habits  
+
 ![RFM and clustering](https://github.com/YenLing-Allison/RFM_model_and_Airline_customer_segmentation/assets/144725779/b2eb676f-892b-4cd6-8ede-838a0aa93ab7)
 
 # Further analysis for each segmentations
+Identify what characteristic made up for each clusters and how it differs from other groups  
+
 ![further analysis](https://github.com/YenLing-Allison/RFM_model_and_Airline_customer_segmentation/assets/144725779/fe27bcf3-cacb-4807-b7ff-ffd139098cb0)
 
 # Recommendation
