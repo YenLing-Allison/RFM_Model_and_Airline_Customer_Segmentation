@@ -4,7 +4,9 @@ Repository: https://github.com/YenLing-Allison/RFM_model_and_Airline_customer_se
 
 # Problem Description
 **Situation**: Going through bankruptcies, multiple economic recessions, and threats of mergers, the Airlines were now stable and profitable. Its Director embarked on **developing more robust customer insights as a top priority**  
+
 **Complication**: However, the company **did not have a dedicated data analyst on staff** and lack of customer knowledge, which significantly hampers the team’s digital marketing and advertising efforts  
+
 **Key Question**:  
 a) Paint a picture of different customer segmentations  
 b) Which ways offer the Airlines the most insights? And, how could the insights be used?  
