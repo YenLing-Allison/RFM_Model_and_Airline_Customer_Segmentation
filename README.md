@@ -14,7 +14,7 @@ b) Which ways offer the Airlines the most insights? And, how could the insights 
 ![Solution Map](https://github.com/YenLing-Allison/RFM_model_and_Airline_customer_segmentation/assets/144725779/06257cb3-095e-4ea3-b51c-cb2f7f227626)
 
 # Exploratory Analysis
-Firstly, I conduct the initial exploratory to see what's the overall data look like?
+Firstly, I conduct the initial exploratory to see what's the overall data look like?  
 a) Popular flight routes  
 b) Customers characteristic  
 c) Ufly memberships and its changes  
@@ -25,14 +25,14 @@ R: recency, how recently a customer has transacted with the Airline
 F: how frequently they’ve engaged with the Airline  
 M: how much money they’ve spent on per trip of the Airline  
 
-RFM model is a comprehensive marketing analysis that segments a company’s consumer base by their purchasing patterns or habits
+RFM model is a comprehensive marketing analysis that segments a company’s consumer base by their purchasing patterns or habits  
 ![RFM and clustering](https://github.com/YenLing-Allison/RFM_model_and_Airline_customer_segmentation/assets/144725779/b2eb676f-892b-4cd6-8ede-838a0aa93ab7)
 
 # Further analysis for each segmentations
 ![further analysis](https://github.com/YenLing-Allison/RFM_model_and_Airline_customer_segmentation/assets/144725779/fe27bcf3-cacb-4807-b7ff-ffd139098cb0)
 
 # Recommendation
-The recommendations aim to do precision marketing and help increase upgraded membership for the Airlines
+The recommendations aim to do precision marketing and help increase upgraded membership for the Airlines  
 ![Recommendation](https://github.com/YenLing-Allison/RFM_model_and_Airline_customer_segmentation/assets/144725779/46fc38bd-0fae-4be2-a49b-5b269f8bb8f2)
 
 
