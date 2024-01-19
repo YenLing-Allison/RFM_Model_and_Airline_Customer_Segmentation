@@ -1,11 +1,11 @@
 # RFM_model_and_Airline_customer_segmentation
-Using RFM model do cluster analysis with local airlines customer behavior dataset
-Repository: 
+Using RFM model do cluster analysis with local airlines customer behavior dataset  
+Repository: https://github.com/YenLing-Allison/RFM_model_and_Airline_customer_segmentation
 
 # Problem Description
 **Situation**: Going through bankruptcies, multiple economic recessions, and threats of mergers, the Airlines were now stable and profitable. Its Director embarked on **developing more robust customer insights as a top priority**  
 **Complication**: However, the company **did not have a dedicated data analyst on staff** and lack of customer knowledge, which significantly hampers the team’s digital marketing and advertising efforts  
-**Key Question**: 
+**Key Question**:  
 a) Paint a picture of different customer segmentations 
 b) Which ways offer the Airlines the most insights? And, how could the insights be used?  
 ![Key question](https://github.com/YenLing-Allison/RFM_model_and_Airline_customer_segmentation/assets/144725779/b637baa1-b3ca-46a3-aa44-c11d9f3cff16)
